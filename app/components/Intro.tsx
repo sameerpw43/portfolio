@@ -28,16 +28,18 @@ const Intro = () => {
               delay:0.1,
               duration:0.7,
              }}
-            >👋</motion.span>
+            >{'👋'}</motion.span>
         </div>
       </div>
       <motion.h1 className='mb-10 mt-4 px-4 text-2xl font-medium !leading-[1.5] sm:text-4xl'initial={{opacity:0,y:100}}
       animate={{opacity:1,y:0}}>
-      <span className="font-bold">Hello, I'm Sameer Khan.</span> I'm 
+      <span className="font-bold">Hello, I&apos;m Sameer Khan.</span>
+ I&apos;m 
         <span className="font-bold">full-stack developer</span> with
         <span className="font-bold">5 months</span> of experience. I enjoy
         building <span className="italic">sites & apps</span>. My focus is
-        <span className="underline">React (Next.js)</span>.
+        <span className="underline">React (&#40;Next.js&#41;)</span>.
+
       </motion.h1>
       <motion.div className='flex flex-col sm:flex-row items-center justify-center gap-2 px-4 text-lg font-medium' initial={{opacity:0,y:100}}
       animate={{opacity:1,y:0}} transition={{
