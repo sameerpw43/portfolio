@@ -36,7 +36,7 @@ const Intro = () => {
       <span className="font-bold">Hello, I&apos;m Sameer Khan.</span>
  I&apos;m 
         <span className="font-bold">full-stack developer</span> with
-        <span className="font-bold">5 months</span> of experience. I enjoy
+        <span className="font-bold"> 6 months</span> of experience. I enjoy
         building <span className="italic">sites & apps</span>. My focus is
         <span className="underline">React (&#40;Next.js&#41;)</span>.
 
