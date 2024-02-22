@@ -49,9 +49,17 @@ export const experiencesData = [
     title: "Full-Stack Developer",
     location: "Remote",
     description:
-      "I'm now a full-stack developer working in neuetrinostech company.My Stack includes Mern stack,Next.js,Tailwind",
+      "I have worked as a full-stack developer  in neuetrinostech company for 6 months.My Stack includes Mern stack,Next.js,Tailwind",
     icon: React.createElement(CgWorkAlt),
-    date: "2023 - present",
+    date: "2023 - 2023",
+  },
+   {
+    title: "Software Engineer",
+    location: "Hyderabad,Telangana,India",
+    description:
+    "I'm  currently working as full-stack software engineer with  of experience building engaging and scalable web applications. Currently at AptCare.ai, a company focused on revolutionizing the healthcare industry, I leverage my mastery of the MERN stack, Next.js for server-side rendering, and Tailwind CSS for rapid UI development"
+    icon: React.createElement(CgWorkAlt),
+    date: "2023 - 2023",
   },
   
 ] as const;
