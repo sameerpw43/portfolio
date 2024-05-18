@@ -57,9 +57,9 @@ export const experiencesData = [
     title: "Software Engineer",
     location: "Hyderabad,Telangana,India",
     description:
-    "I'm  currently working as full-stack software engineer with  of experience building engaging and scalable web applications. Currently at AptCare.ai, a company focused on revolutionizing the healthcare industry, I leverage my mastery of the MERN stack, Next.js for server-side rendering, and Tailwind CSS for rapid UI development"
+    "I'm  currently working as full-stack software engineer with  of experience building engaging and scalable web applications. Currently at AptCare.ai, a company focused on revolutionizing the healthcare industry, I leverage my mastery of the MERN stack, Next.js for server-side rendering, and Tailwind CSS,MUI, for rapid UI development"
     icon: React.createElement(CgWorkAlt),
-    date: "2023 - 2023",
+    date: "2023 - current",
   },
   
 ] as const;
@@ -112,11 +112,15 @@ export const skillsData = [
   "HTML",
   "CSS",
   "JavaScript",
- 
+   "TypeScript",
   "React",
   "Next.js",
   "Node.js",
   "Git",
+  "Mui",
+  "Vite",
+  "Zustand",
+  "React Query"
   "Tailwind",
   "Express",
   "MongoDB",
