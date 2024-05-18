@@ -120,7 +120,7 @@ export const skillsData = [
   "Mui",
   "Vite",
   "Zustand",
-  "ReactQuery"
+  "ReactQuery",
   "Tailwind",
   "Express",
   "MongoDB",
