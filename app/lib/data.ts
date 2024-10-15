@@ -126,7 +126,7 @@ export const skillsData = [
   "MongoDB",
   "Redux",
   "RestAPI",
-  'Flutter",
+  "Flutter",
   "Python",
 
   "Framer Motion",
