@@ -129,6 +129,7 @@ export const skillsData = [
   "RestAPI",
   "Flutter",
   "Python",
-
+  "Capacitor",
+  "Ionic",
   "Framer Motion",
 ] as const;
