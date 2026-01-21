@@ -1,0 +1,9 @@
+<svg width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="400" fill="#f3f4f6"/>
+  <rect x="50" y="50" width="500" height="300" fill="#e5e7eb" stroke="#d1d5db" stroke-width="2"/>
+  <text x="300" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#6b7280">Healthcare Project</text>
+  <text x="300" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#9ca3af">Confidential Content</text>
+  <circle cx="150" cy="120" r="20" fill="#10b981"/>
+  <circle cx="300" cy="120" r="20" fill="#3b82f6"/>
+  <circle cx="450" cy="120" r="20" fill="#8b5cf6"/>
+</svg>

@@ -34,13 +34,19 @@ const Intro = () => {
       <motion.h1 className='mb-10 mt-4 px-4 text-2xl font-medium !leading-[1.5] sm:text-4xl'initial={{opacity:0,y:100}}
       animate={{opacity:1,y:0}}>
       <span className="font-bold">Hello, I&apos;m Sameer Khan.</span>
- I&apos;m 
-        <span className="font-bold"> Software Engineer</span> with
-        <span className="font-bold"> 2.7 year</span> of experience. I enjoy
-        building <span className="italic">sites & apps</span>. My focus is
-        <span className="underline">React  (&#40;Mern Stack&#41;)</span>.
+ I&apos;m a 
+        <span className="font-bold"> Full Stack Developer</span> with
+        <span className="font-bold"> 2 years 8 months</span> of experience specializing in
+        <span className="font-bold"> MERN Stack, Mobile App Development & AI/GenAI technologies</span>. I build 
+         <span className="italic">AI-powered healthcare applications</span> and scalable solutions with a focus on 
+         <span className="underline">innovation and user experience</span>.
 
       </motion.h1>
+      
+      <motion.div className='mb-6 text-gray-600' initial={{opacity:0,y:100}}
+      animate={{opacity:1,y:0}} transition={{delay:0.05}}>
+        <p>📍 Hyderabad, India | 📧 sameerk9177@gmail.com | 📱 (+91) 9177532164</p>
+      </motion.div>
       <motion.div className='flex flex-col sm:flex-row items-center justify-center gap-2 px-4 text-lg font-medium' initial={{opacity:0,y:100}}
       animate={{opacity:1,y:0}} transition={{
         delay:0.1,

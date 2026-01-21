@@ -9,29 +9,24 @@ const About = () => {
      <SectionHeading>About Me</SectionHeading>
       <p className="mb-3">
         After graduating with a degree in
-        <span className="font-medium"> Bachelor of Engineering from Deccan College of Engineering and Technology</span>, I decided to pursue my
-        passion for programming. I enrolled in a coding bootcamp and learned
-        <span className="font-medium"> full-stack web development</span>.
-        <span className="italic"> My favorite part of programming</span> is the
-        problem-solving aspect. I <span className="underline">love</span> the
-        feeling of finally figuring out a solution to a problem. My core stack
-        is
+        <span className="font-medium"> Electronics and Communication Engineering from Deccan College of Engineering and Technology</span>, I pursued my
+        passion for programming and became a
+        <span className="font-medium"> Full Stack Web Developer</span> with
+        <span className="font-medium"> 2 years 8 months</span> of professional experience.
+        <span className="italic"> I specialize in</span> building scalable web and mobile solutions using the
         <span className="font-medium">
-          React, Next.js, Node.js, and MongoDB
+          MERN stack, Next.js, Flutter, and AI technologies
         </span>
-        . I am also familiar with Python,Mysql. I am always looking to
-        learn new technologies. I am currently looking for a
-        <span className="font-medium"> full-time position</span> as a software
-        developer.
+        . I have hands-on experience with <span className="font-medium">Generative AI, RAG, LangChain, and vector databases</span>. 
+        Currently, I&apos;m developing <span className="underline">HIPAA-compliant healthcare platforms</span> that integrate 
+        secure APIs and AI-powered automation systems.
       </p>
 
       <p>
-      <span className="italic">When I&apos;m not coding</span>
-, I enjoy playing
-        video games, watching movies,cooking and Exercise. I also enjoy
-        <span className="font-medium">learning new things</span>. I am currently
-        learning about
-        <span className="font-medium">New dishes</span>
+        <span className="italic">When I&apos;m not coding</span>, I enjoy playing
+        video games, watching movies, cooking and exercising. I also enjoy
+        <span className="font-medium"> learning new technologies</span> and am currently
+        exploring advanced <span className="font-medium">AI/ML applications in healthcare</span>.
       </p>
     </motion.section>
   )
