@@ -36,7 +36,7 @@ const Intro = () => {
       <span className="font-bold">Hello, I&apos;m Sameer Khan.</span>
  I&apos;m a 
         <span className="font-bold"> Full Stack Developer</span> with
-        <span className="font-bold"> 2 years 8 months</span> of experience specializing in
+        <span className="font-bold"> 2 years 9 months</span> of experience specializing in
         <span className="font-bold"> MERN Stack, Mobile App Development & AI/GenAI technologies</span>. I build 
          <span className="italic">AI-powered healthcare applications</span> and scalable solutions with a focus on 
          <span className="underline">innovation and user experience</span>.
@@ -65,4 +65,5 @@ const Intro = () => {
 }
 
 export default Intro
+
 
