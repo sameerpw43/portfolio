@@ -12,7 +12,7 @@ const About = () => {
         <span className="font-medium"> Electronics and Communication Engineering from Deccan College of Engineering and Technology</span>, I pursued my
         passion for programming and became a
         <span className="font-medium"> Full Stack Web Developer</span> with
-        <span className="font-medium"> 2 years 8 months</span> of professional experience.
+        <span className="font-medium"> 2 years 9 months</span> of professional experience.
         <span className="italic"> I specialize in</span> building scalable web and mobile solutions using the
         <span className="font-medium">
           MERN stack, Next.js, Flutter, and AI technologies
@@ -33,3 +33,4 @@ const About = () => {
 }
 
 export default About
+
