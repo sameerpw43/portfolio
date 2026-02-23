@@ -148,6 +148,24 @@ export const projectsData = [
     tags: ["MERN Stack", "Capacitor", "Secure APIs", "HIPAA Compliance", "Real-time", "Healthcare", "Mobile App"],
     imageUrl: ccmImage,
   },
+    {
+    title: "Healthcare AI Chatbot - Pre-Procedure Call System",
+    description:
+      "Full-stack multi-agent AI application designed to simulate pre-procedure patient calls. Powered by the Anthropic API for an advanced LLM architecture handling real-time text and voice conversations, dynamic patient mood simulation, automated clinical script auditing, and complete call history tracking.",
+    ProjectLink: 'https://healthcare-rag-chatbot-bsya.vercel.app/',
+    githubLink: 'https://github.com/your-username/RAG-PROJECT', // Add repo link if public
+    tags: [
+      "React", 
+      "Node.js", 
+      "Multi-Agent AI", 
+      "Anthropic API", 
+      "Voice Synthesis", 
+      "Healthcare", 
+      "Vercel"
+    ],
+    imageUrl: healthcarePlaceholder, 
+  }
+
 ] as const;
 
 export const skillsData = [
